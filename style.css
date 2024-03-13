@@ -1,0 +1,38 @@
+ /* Full credit to code.org for task */
+  
+p {
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Bold', sans-serif;
+  color: #4b563e;
+  text-align: center;
+}
+h1 {
+  color: #538000;
+  font-family: courior, monospace;
+  text-align: center;
+  font-size: 40px;
+}
+img{
+  width: 150px;
+}
+body{
+  background-image: linear-gradient(#d7c4a3,#ccac8e, #c6b586,#aeb09c);
+}
+img{
+  width: 280px;
+  height: 300px;
+  border: 3px solid #442809;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Fl{
+  color: #53580e;
+}
+#Pa{
+  color: #5b4a0b;
+}
+#Pe{
+  color: #543e03;
+}
+/*added css for body, img and p. Added css for id Pa, Fl and Pe.*/
